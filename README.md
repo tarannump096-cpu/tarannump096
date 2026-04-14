@@ -30,3 +30,81 @@ Hello world, this is my profile.
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tarannump096&show_icons=true&locale=en&layout=compact" alt="tarannump096" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tarannump096&show_icons=true&locale=en" alt="tarannump096" /></p>
+# 👋 Hi, I'm Tarannum Pathan!
+
+🎯 **Data Scientist | Machine Learning Engineer | NLP Enthusiast**
+
+---
+
+## 🚀 About Me
+- 💡 Passionate about turning data into actionable insights  
+- 📊 Skilled in building ML/DL models and deploying solutions  
+- 🧠 Strong interest in **Deep Learning & Natural Language Processing (NLP)**  
+- 📈 Love working with real-world datasets and solving business problems  
+
+---
+
+## 🛠️ Tech Stack
+
+### 👩‍💻 Programming & Databases
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=database&logoColor=white)
+
+### 📊 Data Visualization
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=black)
+
+### 🤖 Machine Learning & AI
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge&logo=tensorflow)
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-FF6F00?style=for-the-badge&logo=pytorch&logoColor=white)
+![NLP](https://img.shields.io/badge/NLP-8E44AD?style=for-the-badge)
+
+---
+
+## 📂 Featured Projects
+
+🔹 **Machine Learning Projects**
+- Predictive modeling, classification, regression  
+- Feature engineering & model optimization  
+
+🔹 **Deep Learning Projects**
+- Neural Networks, CNNs, RNNs  
+- Real-world applications  
+
+🔹 **NLP Projects**
+- Text classification  
+- Sentiment analysis  
+- Chatbot development  
+
+---
+
+## 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)
+
+---
+
+## 🔥 Contribution Streak
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=radical)
+
+---
+
+## 🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Tarannum%20Pathan-blue?style=for-the-badge&logo=linkedin)](YOUR_LINKEDIN_URL)
+
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/YOUR_USERNAME)
+
+---
+
+## 💡 Quote
+
+_"Data is the new oil, but insights are the real fuel."_ 🚀
+
+---https://share.google/zPpbYXZLF3iZlgUlv
+
+## 🎨 Profile Views
+
+![Visitor Count](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blue)
